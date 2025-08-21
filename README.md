@@ -1,12 +1,13 @@
-💻 Full-stack developer passionate about **scalable web apps**, **3D graphics**, and **clean architecture**.  
-I love turning complex problems into elegant solutions with TypeScript, Next.js, and Three.js.  
+# Michał Zagojski
+
+💻 I am a full-stack developer passionate about **Game Development**, **UI Design** and **3D graphics**.
+On a daily basis, I turn complex problems into elegant solutions using TypeScript, Next.js, and Three.js.
 
 ---
 
 ## 🌱 What I’m working on
-- 🚀 Building interactive 3D applications with **Three.js + WebGL**
-- 📦 Designing robust APIs and database layers with **Prisma + PostgreSQL**
-- ⚡ Exploring **game frameworks** and **hot-reload workflows** for smooth DX
+- 🚀 TGDF - a standalone game development framework using **Three.js / Typescript / Electron**
+- 📦 Kushop - a modern tool for browsing medical marijuana availability in local pharmacies **Next.js / PostgreSQL / Prisma / Docker**
 
 ---
 
@@ -29,32 +30,9 @@ I love turning complex problems into elegant solutions with TypeScript, Next.js,
 ![Render](https://img.shields.io/badge/-Render-000000?logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-**Creative Stuff**  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
-![MapLibre](https://img.shields.io/badge/-MapLibre-4285F4?logo=mapbox&logoColor=white)
-![Phaser](https://img.shields.io/badge/-Phaser-FF6F61?logo=phaser&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-- 🎮 [Game Engine (WIP)](YOUR_PROJECT_LINK) – Modular TypeScript game framework with hot reload
-- 🗺 [3D Map Explorer](YOUR_PROJECT_LINK) – Interactive maps with **MapLibre + WebGL**
-- 🔐 [Auth Boilerplate](YOUR_PROJECT_LINK) – Secure JWT-based auth starter for **Next.js**
-
----
-
-## ⚡ Fun Facts
-- I love experimenting with **procedural generation** 🎲  
-- Huge fan of sci-fi and space exploration 🚀  
-- Always exploring new ways to merge **code + art** 🎨  
-
 ---
 
 ## 📫 Let’s Connect
-- 🌍 Portfolio: [yourdomain.dev](https://yourdomain.dev)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+- 🌍 Mail: [zagojski.michal.99@gmail.com](mailto:zagojski.michal.99@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/michał-zagojski](https://www.linkedin.com/in/micha%C5%82-zagojski-76119a174/)
+- 📞 Phone: +48 607 404 497
