@@ -5,12 +5,6 @@ On a daily basis, I turn complex problems into elegant solutions using TypeScrip
 
 ---
 
-## 🌱 What I’m working on
-- 🎮 TGDF - a standalone game development framework using **(Three.js / Typescript / Electron)**
-- 💊 Medshop - a modern tool for browsing medicines availability in local pharmacies **(Next.js / PostgreSQL / Prisma / Docker)**
-
----
-
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**
