@@ -1,6 +1,6 @@
 # Michał Zagojski
 
-💻 I am a full-stack developer passionate about **Game Development**, **UI Design** and **3D graphics**.
+💻 I am a full-stack developer passionate about **Game Development**, **UI Development / Design** and **3D graphics**.
 
 ---
 
