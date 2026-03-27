@@ -1,7 +1,6 @@
 # Michał Zagojski
 
 💻 I am a full-stack developer passionate about **Game Development**, **UI Design** and **3D graphics**.
-On a daily basis, I turn complex problems into elegant solutions using TypeScript, Next.js, and Three.js.
 
 ---
 
